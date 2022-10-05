@@ -1,0 +1,28 @@
+#voteinfo p{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.userlogout {
+    font-size: 22px;
+    float:right;
+    background-color:aqua;
+    color: black;
+    border-radius: 10px;
+    border-color: white;
+    height: 40px;
+    cursor: pointer;
+    position: relative;
+    margin-top: 20px;
+  }
+
+  #updatepolls {
+    font-size: 22px;
+    background-color:aqua;
+    color:black;
+    border-radius: 10px;
+    border-color: white;
+    cursor: pointer;
+    height: 40px;
+    position: relative;
+    margin-top: 40px;
+  }
